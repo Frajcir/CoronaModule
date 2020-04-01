@@ -12,7 +12,7 @@
 RootModule = 'CoronaModule.psm1'
 
 # Version number of this module.
-ModuleVersion = '1.0.0'
+ModuleVersion = '1.0.1'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
@@ -30,7 +30,7 @@ Author = 'Kyle Krajcir'
 Copyright = '(c) Kyle Krajcir. All rights reserved.'
 
 # Description of the functionality provided by this module
-Description = 'Interact with The COVID Tracking Project API (https://covidtracking.com/api/)'
+Description = 'Access the data available from The COVID Tracking Project API (https://covidtracking.com/api/)'
 
 # Minimum version of the PowerShell engine required by this module
 # PowerShellVersion = ''
