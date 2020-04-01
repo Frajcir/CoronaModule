@@ -1,6 +1,6 @@
 # CoronaModule
 
-Access the data available from The COVID Tracking Project API (https://covidtracking.com/api/)
+A script based PowerShell module to access the data available from The COVID Tracking Project API (https://covidtracking.com/api/)
 
 # Install
 Install-Module -Name CoronaModule
