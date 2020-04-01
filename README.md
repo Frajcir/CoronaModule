@@ -26,10 +26,17 @@ Get-CoronaUSPressCoverage
 # Command Usage Examples
 
 Get current Corona virus state data for all states
+
 PS /> Get-CoronaStateData | Format-Table state,positive,negative,death
 
+
 Get historical (daily) Corona virus state data for the state of California
+
 PS C:\>Get-CoronaStateData -StateAbbreviation CA -Historical | Format-Table date,state,positive,negative,death
 
+
 Get historical Corona virus death rate for all states
+
 PS C:\>Get-CoronaUSDeathRate -Historical
+
+
